@@ -1,5 +1,5 @@
-# python-basic-projects
-# Repositorio de Proyectos Python Pequeños
+
+# Repositorio de Proyectos BÁSICOS DE Python 
 
 Este repositorio contiene una colección de pequeños proyectos de Python que he creado para aprender y practicar diferentes conceptos de programación. Cada proyecto se encuentra en su propia carpeta con su código fuente y una breve descripción.
 
