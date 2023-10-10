@@ -5,9 +5,9 @@ Este repositorio contiene una colección de pequeños proyectos de Python que he
 
 ## Proyectos
 
-- [Proyecto 1: Ahorcado](ahorcado/): Breve descripción del proyecto 1.
-- [Proyecto 2: Keylogger](keylogger/): Breve descripción del proyecto 2.
-  Próximamente más...
+- [Proyecto 1: Ahorcado](ahorcado/): Juego ahorcado terminal simple
+- [Proyecto 2: Keylogger](keylogger/): Keylogger que crea logs con las teclas que presionas
+- Próximamente más...
 
 ## Cómo Ejecutar los Proyectos
 
